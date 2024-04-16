@@ -1,2 +1,4 @@
 # Effects of Fear on Epidemic Dynamics
-## Final project for the subject 'Life Data Epidemiology' of the MSc Physics of Data
+Authors: Guillermo Benito-Calviño, Sofía Pacheco-García, Filippo Pra Fiorniani
+
+We model the effects of fear within an epidemic. We have added the fear to a SIRD Network.
